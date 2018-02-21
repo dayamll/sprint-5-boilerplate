@@ -1,0 +1,23 @@
+{
+  "name": "sprint-5-foro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayamll/sprint-5-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayamll/sprint-5-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dayamll/sprint-5-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
